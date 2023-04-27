@@ -1,0 +1,10 @@
+.header-title {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1rem;
+    display: flex;
+    justify-content: space-between;
+    margin: 0rem;
+    padding: 0.5rem 2rem;
+    color:antiquewhite;
+    background-color: black;
+}

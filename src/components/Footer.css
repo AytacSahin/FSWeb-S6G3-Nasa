@@ -1,0 +1,9 @@
+.footer-content {
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+    margin: 0rem;
+    padding: 1rem;;
+    color:bisque;
+    background-color: rgba(36, 30, 30, 0.5);
+}
