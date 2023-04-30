@@ -36,5 +36,6 @@ function App() {
 
 export default App;
 
+// Resim linklerim:
 // https://api.nasa.gov/planetary/apod?api_key=vADrtAAH2DOWuPKz2nbaUqPSzTCQG09zFjhVq6nA
 // https://www.webtekno.com/images/editor/default/0003/39/1c89bf763882ab65981d4a1978228e468b8da5ef.jpeg

@@ -6,8 +6,9 @@
 }
 
 .body-image img{
-    width: 30rem;
-    border: 1rem solid black;
+    width: 50rem;
+    border: 0.2rem solid whitesmoke;
+    border-radius: 1rem;
 }
 
 .body-text {
